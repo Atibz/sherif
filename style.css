@@ -62,7 +62,8 @@ input{
   margin: 7px;
   border-radius: 7px;
 }
-.submit button{
+.submit input{
+  color: #fff;
   background: #0066b2;
   border-style: none;
   width: 200px;
